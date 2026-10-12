@@ -1,0 +1,64 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Juan",
+            "apellido": "Soto",
+            "correo": "juan.soto@gmail.com",
+            "id": "2ac2bfdc-25a2-4666-a173-1ae345198349"
+        },
+        {
+            "nombre": "Juan",
+            "apellido": "Soto",
+            "correo": "juan.soto@gmail.com",
+            "id": "e81c6378-95bb-466a-b425-425ab3c0e1c8"
+        },
+        {
+            "nombre": "Bryar",
+            "apellido": "Knight",
+            "correo": "xosatera@mailinator.com",
+            "id": "6186d2c8-0541-4d10-9d77-21040a0547e7"
+        },
+        {
+            "nombre": "Adara",
+            "apellido": "Whitney",
+            "correo": "gucoverov@mailinator.com",
+            "id": "55058665-22a5-42e2-9e4a-af470dc35b11"
+        },
+        {
+            "nombre": "Fredericka",
+            "apellido": "Underwood",
+            "correo": "sihyficit@mailinator.com",
+            "id": "5e865717-9581-49e5-9c58-52954b49a442"
+        },
+        {
+            "nombre": "Evan",
+            "apellido": "Manning",
+            "correo": "bagocoxe@mailinator.com",
+            "id": "d1d3296e-076c-4edc-91dd-b1d64adaae6d"
+        },
+        {
+            "nombre": "Victor",
+            "apellido": "Whitley",
+            "correo": "cewuvemybu@mailinator.com",
+            "id": "666e69f2-3ab5-42a6-9ce2-edb426dc5668"
+        },
+        {
+            "nombre": "Raphael",
+            "apellido": "Hinton",
+            "correo": "refysotupe@mailinator.com",
+            "id": "86708a1e-bcfc-4fda-8a55-1a3bc971243f"
+        },
+        {
+            "nombre": "Xantha",
+            "apellido": "Stevens",
+            "correo": "byrupu@mailinator.com",
+            "id": "5ec85107-ced1-4215-9116-f6a1297631be"
+        },
+        {
+            "nombre": "Maryam",
+            "apellido": "Baxter",
+            "correo": "lecy@mailinator.com",
+            "id": "6b226242-743a-47f0-bf8c-f8c411bea8cd"
+        }
+    ]
+}

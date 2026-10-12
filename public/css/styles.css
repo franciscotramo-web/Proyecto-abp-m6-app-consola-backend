@@ -1,0 +1,51 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #f8fbff 0%, #eef4ff 100%);
+    color: #1f2937;
+}
+
+.navbar {
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+
+.hero-card {
+    background: linear-gradient(135deg, rgba(53, 132, 242, 0.95), rgba(13, 110, 253, 0.9));
+    color: #fff;
+    border: 0;
+    border-radius: 1.25rem;
+}
+
+.hero-card .btn-outline-light:hover {
+    color: #0d6efd;
+    background: #fff;
+}
+
+.card {
+    border-radius: 1rem;
+    border: 0;
+}
+
+.table-card, .form-card, .profile-card {
+    box-shadow: 0 15px 35px rgba(15, 23, 42, 0.08);
+}
+
+.btn-brand {
+    background: linear-gradient(135deg, #0d6efd, #2563eb);
+    color: #fff;
+    border: 0;
+}
+
+.btn-brand:hover {
+    color: #fff;
+    filter: brightness(1.05);
+}
+
+.form-control:focus {
+    border-color: #86b7fe;
+    box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.2);
+}
+
+.badge {
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
